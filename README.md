@@ -76,7 +76,7 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
 Backend will be available at http://localhost:8000
-
+Start a new terminal
 ### Start the Frontend
 
 ```bash
